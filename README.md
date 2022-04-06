@@ -1,6 +1,6 @@
 # Connect the Dots
 ![screenshot](screenshot.jpg)
-Draw lines between dots on a React web canvas, built in CSE331. This was my first exposure to React.js.
+Draw lines between dots on a React web canvas. This was my first exposure to React.js.
 
 Deployed at: https://burnhc.github.io/connect-dots/
 
